@@ -1,6 +1,5 @@
 # Made by Roshan Prashant Bara
 # GitHub link: https://github.com/roshanbara
-# ******CAUTION: The owner of this code is responsible for deletion of any file/folder or any damage caused due to execution of this code******
 # To run the code please follow the Readme on GitHub
 # DISCLAIMER: This code has just been made as a self-project, just to apply what has been learnt.
 
